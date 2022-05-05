@@ -32,3 +32,4 @@ const updateScore = stringvalue => {
 const advanceRound = () => {
     currentRoundNumber +=1;
 }
+// novo escrito up
